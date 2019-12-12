@@ -5,8 +5,7 @@
   "main": "index.js",
   "homepage": "https://edgemmal.com",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "heroku ps dist"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "author": "Ed Gemmal",
   "license": "MIT",
