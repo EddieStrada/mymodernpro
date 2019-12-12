@@ -2,12 +2,11 @@
   "name": "modern_portfolio",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
-  "main": "index.js",
+  "main": "index",
   "homepage": "https://edgemmal.com",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d dist",
-    "start": "declare module 'start-script'"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Ed Gemmal",
   "license": "MIT",
