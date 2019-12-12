@@ -2,7 +2,7 @@
   "name": "modern_portfolio",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
-  "main": "index",
+  "main": "index.js",
   "homepage": "https://edgemmal.com",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
