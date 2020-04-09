@@ -10,7 +10,7 @@
   "author": "Ed Gemmal",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "node-sass": "^4.13.0",
     "start-script": "^0.1.0"
   }
