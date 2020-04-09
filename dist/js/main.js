@@ -1,5 +1,3 @@
-const startScript = require("start-script")();
-
 // Fork a new Node.js process using the detected script...
 
 // Select DOM Items
